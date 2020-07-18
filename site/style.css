@@ -1,0 +1,61 @@
+p.intro {
+            font-size: 20px;
+}
+
+section p {
+    color: green;
+    font-size: 130%;
+}
+
+h3 {
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+body li {
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main a:link,
+.main a:visited {
+    text-decoration: none;
+    display: block;
+    width: 400px;
+    text-align: center;
+    background-color: gray;
+    border: 1px solid black;
+}
+
+.intro a:link,
+.intro a:visited {
+    text-decoration: none;
+}
+
+a :hover {
+    color: blue;
+    background-color: grey;
+    cursor: pointer;
+    width: 100px;
+}
+
+#poems p {
+    font-size: 1em;
+}
+
+#box {
+    color: white;
+    background-color: #2D26F3;
+    padding: 10px;
+    border: 1px;
+    width: 150px;
+    box-sizing: border-box;
+}
+
+#content {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    color: white;
+    background-color: black;
+}
