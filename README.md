@@ -1,1 +1,1 @@
-This is my Playground for Web Development
+This is my Playground for Web Development. There isn't much here as so far, a lot of my work with HTML, CSS and JavaScript have been work related and as such, I am unable to disclose the code for those
